@@ -1,0 +1,41 @@
+# ======================= #
+# Unreal Engine generated #
+# ======================= #
+Binaries/
+Build/
+Debug/
+DerivedDataCache/
+Intermediate/
+Saved/
+Stage/
+enc_temp_folder/
+.vs/
+
+# ======================= #
+# SRanipal SDK            #
+# ======================= #
+Plugins/SRanipal/ThirdParty/SRanipal/include/*
+Plugins/SRanipal/ThirdParty/SRanipal/lib/Win64/*
+!Plugins/SRanipal/ThirdParty/SRanipal/include/SRanipalIncludes.txt
+!Plugins/SRanipal/ThirdParty/SRanipal/lib/Win64/SRAnipalLibsAndDlls.txt
+
+# ======================= #
+# Visual Studio generated #
+# ======================= #
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.user
+*.db
+
+# ======================= #
+# Cake generated          #
+# ======================= #
+tools/
+ 
+# ============ #
+# OS generated #
+# ============ #
+Thumbs.db

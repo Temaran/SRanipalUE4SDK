@@ -1,0 +1,2 @@
+Put all SRanipal lib and dll files in here.
+The lib file can be found in their lib folder, and the dlls in the binary folder.

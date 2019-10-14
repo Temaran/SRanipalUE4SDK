@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.22",
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "SRanipal Eyetracking Plugin",
+	"Description": "A plugin to enable SRanipal eye tracking in Unreal Engine 4",
+	"Category": "Input Devices",
+	"CreatedBy": "Temaran",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false,
+  "Modules": [
+    {
+      "Name": "SRanipalCore",
+      "Type": "Runtime",
+      "LoadingPhase": "Default",
+      "WhitelistPlatforms": [
+        "Win64",
+        "Win32"
+      ]
+    }
+  ]
+}
